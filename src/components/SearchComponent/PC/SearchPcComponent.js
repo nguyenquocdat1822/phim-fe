@@ -49,6 +49,9 @@ function SearchPcComponent() {
         <button className="search-button">
           <i className="fa-solid fa-magnifying-glass"></i>
         </button>
+        <button className="search-button">
+        <i className="fa-solid fa-microphone"></i>
+        </button>
         <div style={{ display: `${searchDebounce !== "" ? "block" : "none"}` }} className="result_container">
           {searchData &&
             searchData?.length > 0 &&

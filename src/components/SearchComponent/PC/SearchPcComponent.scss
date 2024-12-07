@@ -9,8 +9,10 @@
     background-color: var(--search_color);
     border-radius: 0.7rem;
     position: relative;
+    display: flex;
     .result_container {
       position: absolute;
+      top: 100%;
       width: 100%;
       border-radius: 0.5rem;
       background-color: var(--film_wrapper_button);
@@ -38,8 +40,8 @@
       color: var(--body_color);
     }
     .search-button {
-      position: absolute;
-      right: 0;
+      // position: absolute;
+      // right: 0;
       //   top: 5%;
       width: 3rem;
       height: 100%;

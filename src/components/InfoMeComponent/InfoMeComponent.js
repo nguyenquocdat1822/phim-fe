@@ -8,7 +8,7 @@ function InfoMeComponent() {
         <div className="content-left col col-5">
           <div className="logo"></div>
           <div className="information">
-            <a href="https://portfolio.satomijin.id.vn/">Satomi Jin</a> - <span className="info">{t("intro")}</span>
+            <span className="info">{t("intro")}</span>
           </div>
         </div>
         <div className="content-right col col-7">

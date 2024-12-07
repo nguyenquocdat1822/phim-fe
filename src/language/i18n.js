@@ -25,7 +25,7 @@ i18next.use(initReactI18next).init({
 
         // intro
         intro:
-          "Xin chào, Tôi là Đồng Hữu Trọng (Satomi Jin), Một lập trình viên Front-end đến từ Thành Phố Hồ Chí Minh. Tôi sử dụng ReactJS cho Front-end và NodeJS cho Back-end.",
+          "Xin chào, Tôi là Nguyễn Quốc Đạt (Bé Đạt), Một lập trình viên Front-end đến từ Bình Dương. Tôi sử dụng ReactJS cho Front-end và NodeJS cho Back-end.",
         contactMe: "Liên hệ",
         // thông tin phim
         originName: "Tên gốc",
@@ -104,7 +104,7 @@ i18next.use(initReactI18next).init({
         newMovieFilm: "Newly updated movie film",
         // intro
         intro:
-          "Hello, I'm Đồng Hữu Trọng (Satomi Jin) a Front-end developer from Ho Chi Minh City. Specializing in Frontend with ReactJS and Backend with NodeJS.",
+          "Hello, I'm Nguyễn Quốc Đạt (Bé Đạt) a Front-end developer from Binh Duong. Specializing in Frontend with ReactJS and Backend with NodeJS.",
         contactMe: "Contact Me",
         // film information
         originName: "Origin name",
